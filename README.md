@@ -2,17 +2,29 @@
 title: flowchart_javaweb文档
 icon: circle-info
 ---
-# 流程图编辑器项目介绍与技术文档（手动部署版）
+# 流程图编辑器项目介绍与技术文档（学习版）
+::: important
+* 注意环境依赖JDK25,Tomcat11,mysql9，maven。
+* 可用做期末作业时不需要声明原署名。
+* 没有做任何安全机制，未防止sql注入，密码均是明文保存，一定不要搞到服务器上去了。
+* 如需要真正邮件发送功能，请完善EmailUtil.java，使用自己的stmp服务。
+* 后记：javaweb不是作者主攻，but这是一个很好的项目idea，因为某位老是要写流程图所以有了这个idea，后续可以添加思维导图功能等，完善安全机制，换个框架进入商业化流程。
+* 开源时间：2026/3/30 22:07
+:::
 
 ## 项目地址
 
 https://github.com/shenyuzi8/flowchart-editor-javaweb
 
+## 视频演示地址
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116318418246164&bvid=BV1odXaBUETB&cid=37101830927&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 一个基于 mxGraph、Java、JSP、MySQL 开发的可视化流程图编辑器，支持图形绘制、图形连接、本地保存，用户登录，用户注册等核心功能，采用 CC-BY-NC 开源协议。
 
-## 🎈 在线体验
+## 🎈 本地体验
 
-本地开发体验：http://localhost:8080/实际项目部署名（本地Tomcat启动后访问）
+<p>本地开发体验：http://localhost:8080/实际项目部署名（本地Tomcat启动后访问）</p>
 
 ## 📋 项目简介
 
