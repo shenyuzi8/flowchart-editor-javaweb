@@ -8,7 +8,7 @@ icon: circle-info
 
 https://github.com/shenyuzi8/flowchart-editor-javaweb
 
-一个基于 mxGraph、Java、JSP、MySQL 开发的可视化流程图编辑器，支持图形绘制、图形连接、本地保存，用户登录，用户注册等核心功能，仅支持手动部署模式，采用 CC-BY-NC 开源协议。
+一个基于 mxGraph、Java、JSP、MySQL 开发的可视化流程图编辑器，支持图形绘制、图形连接、本地保存，用户登录，用户注册等核心功能，采用 CC-BY-NC 开源协议。
 
 ## 🎈 在线体验
 
@@ -320,7 +320,7 @@ private static final String PASSWORD = "root123456";
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 GitHub Issue（替换为实际仓库地址）
+- 提交 GitHub Issue（https://github.com/shenyuzi8/flowchart-editor-javaweb/issues）
 
 - 查看本技术文档，排查常见问题
 
