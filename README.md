@@ -18,7 +18,7 @@ https://github.com/shenyuzi8/flowchart-editor-javaweb
 
 ## 视频演示地址
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116318418246164&bvid=BV1odXaBUETB&cid=37101830927&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+https://www.bilibili.com/video/BV1odXaBUETB/?spm_id_from=888.80997.embed_other.whitelist&t=60.127659&bvid=BV1odXaBUETB&vd_source=a06744f5254dfb6adb5acd21480cbc47
 
 一个基于 mxGraph、Java、JSP、MySQL 开发的可视化流程图编辑器，支持图形绘制、图形连接、本地保存，用户登录，用户注册等核心功能，采用 CC-BY-NC 开源协议。
 
@@ -332,7 +332,7 @@ private static final String PASSWORD = "root123456";
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 GitHub Issue（https://github.com/shenyuzi8/flowchart-editor-javaweb/issues）
+- 提交 GitHub Issue https://github.com/shenyuzi8/flowchart-editor-javaweb/issues
 
 - 查看本技术文档，排查常见问题
 
